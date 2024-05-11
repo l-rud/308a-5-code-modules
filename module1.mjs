@@ -1,4 +1,4 @@
-import flattenArr from './utils.mjs'
+import {flattenArr} from './utils.mjs'
 
 // Part 1: Stack Overflow
 // Calculate the maximum size of the JavaScript call stack.
